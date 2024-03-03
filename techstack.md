@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nourez/nourez.github.io](https://github.com/nourez/nourez.github.io)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|1<br/>Tools used|03/02/24 <br/>Report generated|
+|1<br/>Tools used|03/03/24 <br/>Report generated|
 |------|------|
 </div>
 
